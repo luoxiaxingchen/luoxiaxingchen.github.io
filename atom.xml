@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://luoxiaxingchen.github.io</id>
+    <title>星辰小屋</title>
+    <updated>2021-01-04T13:13:34.241Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://luoxiaxingchen.github.io"/>
+    <link rel="self" href="https://luoxiaxingchen.github.io/atom.xml"/>
+    <subtitle>欢迎来到星辰小屋QwQ</subtitle>
+    <logo>https://luoxiaxingchen.github.io/images/avatar.png</logo>
+    <icon>https://luoxiaxingchen.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 星辰小屋</rights>
+    <entry>
+        <title type="html"><![CDATA[rrrr]]></title>
+        <id>https://luoxiaxingchen.github.io/post/rrrr/</id>
+        <link href="https://luoxiaxingchen.github.io/post/rrrr/">
+        </link>
+        <updated>2021-01-04T12:58:27.000Z</updated>
+        <content type="html"><![CDATA[<p>r</p>
+]]></content>
+    </entry>
+</feed>
